@@ -92,3 +92,5 @@ shared_exe.cpp
     }
     
 now compile the executable project, and it will link against the shared library
+
+https://cs.iupui.edu/~hilljh/faqs/shared-library.php
